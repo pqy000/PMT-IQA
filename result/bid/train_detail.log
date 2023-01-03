@@ -1,0 +1,29 @@
+2022-01-25-20:30:44
+######################################################################
+Epoch	Train_Loss	Train_SRCC	Test_SRCC	Test_PLCC
+Training and testing on bid dataset for 3 rounds...
+2022-01-25-20:31:13
+######################################################################
+Epoch	Train_Loss	Train_SRCC	Test_SRCC	Test_PLCC
+Training and testing on bid dataset for 3 rounds...
+2022-01-25-20:33:07
+######################################################################
+Epoch	Train_Loss	Train_SRCC	Test_SRCC	Test_PLCC
+Training and testing on bid dataset for 3 rounds...
+2022-01-25-20:38:03
+######################################################################
+Epoch	Train_Loss	Train_SRCC	Test_SRCC	Test_PLCC
+Training and testing on bid dataset for 3 rounds...
+2022-02-20-14:36:03
+######################################################################
+Epoch	Train_Loss	Train_SRCC	Test_SRCC	Test_PLCC
+Training and testing on bid dataset for 3 rounds...
+Epoch:{18.1749}
+1	1.217		0.3299		0.5754		0.5742
+Epoch:{17.7934}
+2	1.018		0.4123		0.4843		0.3200
+Epoch:{17.3984}
+3	0.947		0.4736		0.6222		0.6293
+Epoch:{17.8999}
+4	0.955		0.4937		0.3829		0.4051
+Epoch:{17.5533}
