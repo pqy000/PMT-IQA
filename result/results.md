@@ -16,8 +16,11 @@ DB-CNN |0.845|0.851|0.875 |0.968|0.946
 HyperIQA |0.869|0.859| 0.906|0.962| 0.923
 PMT-IQA |0.874 | 0.856| 0.902|0.969| 0.929
 
+---
 
 #PLCC values of each method
+
+---
 
 Method | BID | LIVE-C | KonIQ-10K | LIVE | CSIQ
 ---|---|---|---|---|---
